@@ -1,3 +1,6 @@
+This was an independent project that was assigned in my NSS Data Analytics bootcamp.
+
+
 The Nashville City Cemetery Association has asked you to create marketing materials. The following exercises are a _starting point_ for exploring the data and creating visualizations. Once you have completed the exercises below, create additional visualizations to accompany storytelling points. An example of this is shown below for the first exercise.
 
 The city of Nashville provides a dataset of known burials in city cemeteries from 1846 through 1979. This dataset holds factual information, but it also offers a fascinating glimpse into historical trends in medicine, literacy, racial equality, and more.
@@ -22,4 +25,7 @@ The city of Nashville provides a dataset of known burials in city cemeteries fro
 7. Do you notice any interesting patterns regarding where (`Section/Lot`) people were buried?
 
 
-#### Create a new sheet for each pivot table or analysis work done to create a visualization and give each sheet a descriptive/meaningful name. Your final product should be marketing material that includes one or two visualizations that go along with your story. 
+#### Create a new sheet for each pivot table or analysis work done to create a visualization and give each sheet a descriptive/meaningful name. Your final product should be marketing material that includes one or two visualizations that go along with your story.
+
+Speech for marketing dashboard
+I think having an event in March for women's history month would bring in more guest. Not only would this event be good to show some women's history in Nashville but will shed some light on women in this cemetery. As you can see on the chart on the left there is less women than men interred in the Nashville city cemetery. In this event I think we should share who the women are and some facts. For example, I pulled the top 5 causes of death for women ages 0-18, which is shown in the right chart. The highest cause of death was consumption. In conclusion, I believe showcasing the women in the cemetery during March will let history and the stories of these women be heard.
